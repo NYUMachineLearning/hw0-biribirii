@@ -9,6 +9,12 @@
 
 [Markdown Tutorial](https://www.markdowntutorial.com/)
 
+# Assignments
+
+1. Name:
+  * *Brian* **Chang**
+2. Favorite Color:
+  * ~~Black~~
 
 1.Create a Heading right above this line &uarr; that says 'Assignments' 
 
